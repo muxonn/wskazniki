@@ -6,4 +6,5 @@ int main() {
   wsk = new int;
   *wsk=5;
   cout<<*wsk;
+  saass;
 }
