@@ -1,0 +1,2 @@
+# wskazniki
+trening na wskaznikach
